@@ -935,7 +935,7 @@ $runClick = {
 # เปิด Discord หลังรันเสร็จ
 Start-Sleep -Seconds 2
 try {
-    Start-Process "https://discord.gg/GWEv6ggYj"
+    Start-Process "https://discord.gg/VGAMm4JNB"
     Write-Log "Opening Discord invite..." "hi"
 }
 catch {
